@@ -1,5 +1,3 @@
---QA Data Distribution
-
 with ticket_qa as (
     select 
         ticket,
